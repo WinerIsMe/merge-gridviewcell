@@ -1,0 +1,22 @@
+﻿table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+    table th {
+        background-color: #87cefa;
+    }
+
+    table tr.hj {
+        background-color: #b0e2ff;
+    }
+
+.gv_origin {
+    float: left;
+}
+
+.gv_merge {
+    float: left;
+    margin-left: 50px;
+}
