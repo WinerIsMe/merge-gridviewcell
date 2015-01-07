@@ -72,6 +72,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1.png" />
+    <Content Include="2.png" />
     <Content Include="css\site.css" />
     <Content Include="MergeColumn.aspx" />
     <Content Include="MergeRow.aspx" />
