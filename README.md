@@ -22,7 +22,7 @@ PM> Install-Package net.nmtree.mergegridviewcell
   ![合并列的效果](/MergeGridViewCell/Nmtree.MergeGridViewCell.Demo/2.png)
 
 欢迎访问我的个人博客  
-<http://www.nmtree.net>
+<http://www.chengxulvtu.com>
 
 
 
