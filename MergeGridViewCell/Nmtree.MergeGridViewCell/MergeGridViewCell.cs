@@ -1,7 +1,7 @@
 ﻿/**********************************************/
 // 名称：MergeGridViewCell
 // 作者：田念明
-// 博客：http://nianming.cnblogs.com/    http://www.nmtree.net/
+// 博客：http://nianming.cnblogs.com/    http://www.chengxulvtu.com/
 // 时间：2012-10-10 17:40
 // 描述：用来合并GridView单元格。
 /*********************************************/
